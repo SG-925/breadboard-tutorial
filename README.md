@@ -28,6 +28,8 @@ Turn on the LED by pressing the button, then adjust the brightness by turing the
 
 - **Simulate it live:** [https://breadboard.hackclub.com/share/143](https://breadboard.hackclub.com/share/143), runs the firmware in the Breadboard simulator
 - **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/143/](https://taniwankenobi.github.io/breadboard-plays/p/143/)
+- **See the screenshot** <img width="795" height="297" alt="image" src="https://github.com/user-attachments/assets/dee1832b-702a-4cf1-a068-e026c6a6a5d2" />
+
 
 
 ## Schematic
